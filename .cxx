@@ -46,7 +46,7 @@ int main(int argc, char **argv)
 	if(a=='u')m=m+0;n++;
 	cout<<"\nIs it offensive to the majority of people you know or know of?";
 	cin>>a;
-	if(a=='y')cout<<"\nSo fucking what?! :)\n";
+	if(a=='y')cout<<"\nSo what?! :)\n";
 	if(a=='n')cout<<"\nGood for you.\n";n++;
 	if(a=='u')m=m+0;
 	cout<<"\nCan it cause physical pain to another?";
